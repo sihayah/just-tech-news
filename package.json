@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/sihayah/just-tech-news#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
+    "eslint": "^8.5.0",
     "express": "^4.17.2",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
